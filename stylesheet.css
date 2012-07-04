@@ -1,7 +1,6 @@
 body{
-padding-top:105px;
+padding-top:70px;
 background-image:url('images/grid_noise.png');
-
 }
 
 .float-right{
@@ -18,7 +17,7 @@ left: 787px;
 }
 
 #leader{
-padding:10px;
+padding:30px 10px;
 margin-bottom:40px;
 background-color:#E0E0E0 
 }
@@ -33,14 +32,22 @@ text-align:center;
 }
 .footer{
 text-align:center;
-padding:20px;
-background-color:#F0F0F0;
+padding:12px;
+background-color:#E0E0E0 ;
 margin-bottom:0px;
 }
 
 .footer span{
 margin-right:90px;
-font-size:20px;
+font-size:15px;
+text-transform:uppercase;
+}
+hr{
+margin: 0px 0;
+margin-top:10px;
+border:0px;
+border-top: 2px solid #C0C0C0;
+border-bottom: 1px solid #C0C0C0;
 }
 
 
