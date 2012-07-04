@@ -1,5 +1,6 @@
 body{
 padding-top:105px;
+background-image:url('images/grid_noise.png');
 
 }
 
@@ -19,7 +20,7 @@ left: 787px;
 #leader{
 padding:10px;
 margin-bottom:40px;
-background-color:#F0F0F0 
+background-color:#E0E0E0 
 }
 #text_p{
 font-size:20px;
